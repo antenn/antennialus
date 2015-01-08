@@ -1,2 +1,2 @@
 # antennialus
-Wordpressi põhine Roots teemaga veebilehe põhi
+Wordpressi põhine Roots teemaga veebilehe põhi.
